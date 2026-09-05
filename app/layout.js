@@ -1,6 +1,8 @@
+import './globals.css';
+
 export const metadata = {
-  title: 'Página de testes',
-  description: 'Página mínima para validar o ambiente Next.js',
+  title: 'Next.js Feature Matrix & Showcase',
+  description: 'Apresentação moderna de recursos e componentes web do ecossistema Next.js',
 };
 
 export default function RootLayout({ children }) {
