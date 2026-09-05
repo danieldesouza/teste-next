@@ -1,0 +1,25 @@
+{
+  "name": "teste-next",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/danieldesouza/teste-next#readme",
+  "bugs": {
+    "url": "https://github.com/danieldesouza/teste-next/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieldesouza/teste-next.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.3.4",
+    "react": "^19.2.8",
+    "react-doom": "^1.0.0"
+  },
+  "devDependencies": {}
+}
